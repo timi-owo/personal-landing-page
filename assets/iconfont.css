@@ -1,0 +1,17 @@
+@font-face { font-family: "iconfont";
+  src: url('./iconfont.eot'); /* IE9 */
+  src: url('./iconfont.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('./iconfont.woff2') format('woff2'),
+  url('./iconfont.woff') format('woff'),
+  url('./iconfont.ttf') format('truetype'), /* Chrome, Firefox, Opera, Safari, Android, iOS 4.2+ */
+  url('./iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.icon-cloud:before { content: "\ea94"; }
+.icon-163music:before { content: "\e93c"; }
+.icon-github:before { content: "\ea1f"; }
+.icon-steam:before { content: "\e849"; }
+.icon-pinterest:before { content: "\e697"; }
+.icon-instagram:before { content: "\e6b6"; }
+.icon-twitter:before { content: "\e777"; }
+
